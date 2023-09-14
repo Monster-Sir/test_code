@@ -7,5 +7,6 @@ int main()
 	printf("this diff command test 2.\n");
 	printf("this diff --cached test 1.\n");
 	printf("this diff --cached test in workspace.\n");
+	printf("this modify in P12 second!\n");
 	return 0;
 }
